@@ -1,4 +1,4 @@
-DataDairy-Milk-Production-Analytics-System 🥛📊
+DataDairy-Milk-Production-Analytics-System 
 📌 Project Overview
 DataDairy-Milk-Production-Analytics-System is a data analysis project designed to explore historical milk production data. The project performs various data cleaning, aggregation, and visualization tasks to derive insights about milk production trends over time.
 
