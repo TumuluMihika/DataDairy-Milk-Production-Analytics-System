@@ -1,4 +1,5 @@
 DataDairy-Milk-Production-Analytics-System 
+
 📌 Project Overview
 DataDairy-Milk-Production-Analytics-System is a data analysis project designed to explore historical milk production data. The project performs various data cleaning, aggregation, and visualization tasks to derive insights about milk production trends over time.
 
@@ -27,10 +28,15 @@ Ascending and descending sorting
 Visual representation using multiple chart types
 
 🛠️ Technologies Used
+
 1. Python 3.x
+  
 2. Jupyter Notebook
+   
 3. Pandas
+   
 4. Numpy
+   
 5. Matplotlib
 
 📊 Visualizations Included
